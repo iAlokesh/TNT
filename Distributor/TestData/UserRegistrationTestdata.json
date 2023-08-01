@@ -1,0 +1,152 @@
+[
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_001",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_002"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_003",
+        "firstName": "",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_004",
+        "firstName": "Argha",
+        "lastName": "",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_005",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_006",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_007",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_008",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_009",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber":"7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_010",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": ""
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_011",
+        "firstName": "Argha@",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_012",
+        "firstName": "Argha",
+        "lastName": "Dhali@",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_013",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_014",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "emailId": "ps9995710@gmail.com",
+        "phoneNumber": "7003035940",
+        "states": "Bihar",
+        "userRoles": "Distributor",
+        "enterPassword": "Test@1234",
+        "confirmPassword": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_015"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_UserRegistration_016"
+    }
+]

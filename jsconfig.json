@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "@wdio/mocha-framework"
+        ]
+    },
+    "include": [
+        "test/specs/*.js",
+        "node_modules/@wdio/mocha-framework"
+    ]
+}

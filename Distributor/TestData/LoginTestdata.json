@@ -1,0 +1,39 @@
+[
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_001",
+        "email": "ps9995710@gmail.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_002",
+        "email": "ps90@gmail.com",
+        "password": "Test@1234"
+    },{
+        "TestCaseID": "TC_TrackNTrace_LOGIN_003",
+        "email": "ps9995710@gmail.com",
+        "password": "Test@123"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_004",
+        "email": "",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_005",
+        "email": "ps9995710@gmail.com",
+        "password": ""
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_006",
+        "email": "ps9995710@gmail.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_007",
+        "email": "ps9995710@gmail.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_008"
+    }
+]

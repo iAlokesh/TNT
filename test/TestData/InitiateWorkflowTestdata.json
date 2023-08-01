@@ -1,0 +1,123 @@
+[
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_001"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_002",
+        "categoryName": "ELECTRONICS23"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_003"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_004"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_005"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_006",
+        "categoryName": "ELECTRONICS23"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_007"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_008",
+        "categoryName": "ELECTRONICS23"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_009"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_010"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_011"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_012",
+        "categoryName": "ELECTRONICS23"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_013"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_014",
+        "subCategoryName": "Mobile"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_015"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_016"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_017"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_018"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_019",
+        "subCategoryName": "Mobile"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_020"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_021",
+        "productName": "Akbar and Birbal"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_022"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_023"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_024"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_025"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_026"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_027",
+        "productName": "Akbar and Birbal"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_028"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_029",
+        "batchNumber": "PKB123a",
+        "itemTitle": "Electronics",
+        "description": "This is a gaming laptop.",
+        "propertiesName": "SSD",
+        "value": "512 GB"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_030"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_031"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_032"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_033",
+        "batchNumber": "1234567"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_034",
+        "batchNumber": "123456a"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_InitiateWorkflow_035",
+        "batchNumber": "ABC12a"
+    }
+]

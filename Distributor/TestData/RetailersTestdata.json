@@ -1,0 +1,133 @@
+[
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_001"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_002"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_003",
+        "firstName": "Papri",
+        "lastName": "Dhali",
+        "email": "papridhali427@gmail.com",
+        "phoneNumber": "8527419645",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_004"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_005",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.com",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_006",
+        "firstName": "Argha",
+        "email": "arghadhali420@gmail.com",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_007",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_008",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.com",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_009",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.com",
+        "phoneNumber": "7003065940"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_010",
+        "firstName": "Argha@12",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.com",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_011",
+        "firstName": "Argha",
+        "lastName": "Dhali@12",
+        "email": "arghadhali420@gmail.com",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_012",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.",
+        "phoneNumber": "7003065940",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_013",
+        "firstName": "Argha",
+        "lastName": "Dhali",
+        "email": "arghadhali420@gmail.",
+        "phoneNumber": "70030",
+        "states": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_014"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_015"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_016",
+        "firstName": "Argha"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_017",
+        "lastName": "Dhali"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_018",
+        "emailId": "arghadhali420@gmail.com"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_019",
+        "phoneNumber": "7003065940"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_020",
+        "stateName": "Daman & Diu"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_021",
+        "zoneName": "East Zone"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_022"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_023"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_024",
+        "pagenumber": "2"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_025",
+        "Show": "Show 2"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_Retailers_026"
+    }
+]

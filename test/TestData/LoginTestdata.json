@@ -1,0 +1,39 @@
+[
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_001",
+        "email": "argha.dhali.tpr@pwc.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_002",
+        "email": "argha.d.tpr@pwc.com",
+        "password": "Test@1234"
+    },{
+        "TestCaseID": "TC_TrackNTrace_LOGIN_003",
+        "email": "argha.dhali.tpr@pwc.com",
+        "password": "Test@123"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_004",
+        "email": "",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_005",
+        "email": "argha.dhali.tpr@pwc.com",
+        "password": ""
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_006",
+        "email": "argha.dhali.tpr@pwc.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_007",
+        "email": "argha.dhali.tpr@pwc.com",
+        "password": "Test@1234"
+    },
+    {
+        "TestCaseID": "TC_TrackNTrace_LOGIN_008"
+    }
+]
